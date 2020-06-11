@@ -12,7 +12,7 @@ public class HomePagePO {
     @FindBy(linkText = "Create an Account")
     public static WebElement CreateAnAccountLink;
 
-    @FindBy(linkText = "SignIn")
+    @FindBy(linkText = "Sign In")
     public static WebElement SignInLink;
 
 
